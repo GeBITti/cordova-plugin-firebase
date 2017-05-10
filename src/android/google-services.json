@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "594568442609",
+    "firebase_url": "https://laabtestproject.firebaseio.com",
+    "project_id": "laabtestproject",
+    "storage_bucket": "laabtestproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594568442609:android:07ce8321765e35ba",
+        "android_client_info": {
+          "package_name": "br.com.uselaab.laab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594568442609-ck4vd8912h8qt9i00qqm1bfoo4rrtao4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFvK5Gyc242i90bDBbZtZyhR8V55naYfM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
